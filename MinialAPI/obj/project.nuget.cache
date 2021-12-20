@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHbfDWYSLihRDHAQBFxu2wICpdQtdyO6ROnlMv8eU4UofS/kL8e5xNmTVfO4AZ1lz2rfN/jDmuUbUNCUN4gnBw==",
+  "dgSpecHash": "6qQjcHuDccQSvehLGeNF8UNc9jHG9LYnh5ErFMhnCKMVAP8qxjhB7AEKqoWJp3XRmUHHmsSjUmolY5SofXnI0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\MinialAPI.csproj",
+  "projectFilePath": "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\MinialAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

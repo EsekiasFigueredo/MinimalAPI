@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\MinialAPI.csproj": {}
+    "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\MinialAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\MinialAPI.csproj": {
+    "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\MinialAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\MinialAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\MinialAPI.csproj",
         "projectName": "MinialAPI",
-        "projectPath": "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\MinialAPI.csproj",
+        "projectPath": "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\MinialAPI.csproj",
         "packagesPath": "C:\\Users\\Esequias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esequias\\source\\repos\\MinialAPI\\MinialAPI\\obj\\",
+        "outputPath": "C:\\Users\\Esequias\\Desktop\\Omega Software\\MinimalAPI\\MinialAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
